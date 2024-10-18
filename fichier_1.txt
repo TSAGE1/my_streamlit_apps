@@ -1,0 +1,2 @@
+echo "Ceci est mon premier fichier" > fichier_1.txt
+
